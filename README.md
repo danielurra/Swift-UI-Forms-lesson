@@ -4,7 +4,7 @@ Tools used:
 * Form
 * TextField
 * DatePicker
-* Slider (adapted to discrete number for the rating)
+* Slider (adapted to discrete numbers for the rating)
 * TextEditor
 
 ![forms](https://github.com/danielurra/Swift-UI-Forms-lesson/assets/51704179/4279a60e-bb90-4d51-aeb1-3cb27259e411)<br
