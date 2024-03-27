@@ -1,2 +1,2 @@
-# Swift-UI-Forms-lesson
+# SwiftUI Forms lesson
 Swift UI Forms lesson
