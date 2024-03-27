@@ -1,9 +1,10 @@
 # SwiftUI Forms lesson
-![forms](https://github.com/danielurra/Swift-UI-Forms-lesson/assets/51704179/4279a60e-bb90-4d51-aeb1-3cb27259e411)<br>
 Tools used:
 * Form
 * TextField
 * TextEditor
+
+![forms](https://github.com/danielurra/Swift-UI-Forms-lesson/assets/51704179/4279a60e-bb90-4d51-aeb1-3cb27259e411)<br
 
 ## Grab the code - Journal Entry List View
 ```swift
