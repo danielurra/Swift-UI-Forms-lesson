@@ -85,9 +85,3 @@ struct CreateJournalEntryView: View {
 }
 
 ```
-## Grab the code - Journal Entry List View
-```swift
-```
-## Grab the code - Journal Entry List View
-```swift
-```
